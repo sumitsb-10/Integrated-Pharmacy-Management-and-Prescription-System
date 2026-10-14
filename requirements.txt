@@ -1,0 +1,9 @@
+asgiref==3.12.1
+charset-normalizer==3.5.2
+Django==6.1.2
+pillow==12.3.0
+psycopg==3.3.6
+psycopg-binary==3.3.6
+reportlab==5.0.1
+sqlparse==0.6.0
+tzdata==2026.5
